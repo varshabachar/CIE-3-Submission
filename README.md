@@ -4,12 +4,12 @@ Blender project: **Cafe cups machine** ([`blender project/Cafe cups machine.blen
 
 ## Project Video 1
 
-<video src="https://github.com/varshabachar/CIE-3-Submission/raw/main/blender%20project/Project%20Video%201.mp4" controls width="100%"></video>
+![Project Video 1](blender%20project/Project%20Video%201.webp)
 
-[Open Project Video 1](blender%20project/Project%20Video%201.mp4)
+[Download Project Video 1 (MP4)](https://github.com/varshabachar/CIE-3-Submission/raw/main/blender%20project/Project%20Video%201.mp4)
 
 ## Project Video 2
 
-<video src="https://github.com/varshabachar/CIE-3-Submission/raw/main/blender%20project/Project%20Video%202.mp4" controls width="100%"></video>
+![Project Video 2](blender%20project/Project%20Video%202.webp)
 
-[Open Project Video 2](blender%20project/Project%20Video%202.mp4)
+[Download Project Video 2 (MP4)](https://github.com/varshabachar/CIE-3-Submission/raw/main/blender%20project/Project%20Video%202.mp4)
