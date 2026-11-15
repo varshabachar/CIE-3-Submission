@@ -2,14 +2,12 @@
 
 Blender project: **Cafe cups machine** ([`blender project/Cafe cups machine.blend`](blender%20project/Cafe%20cups%20machine.blend))
 
-## Project Video 1
+## Project Image
 
-![Project Video 1](blender%20project/Project%20Video%201.webp)
+![Project Image](blender%20project/Project%20Image.jpg)
 
-[Download Project Video 1 (MP4)](https://github.com/varshabachar/CIE-3-Submission/raw/main/blender%20project/Project%20Video%201.mp4)
+## Project Video
 
-## Project Video 2
+![Project Video](blender%20project/Project%20Video.webp)
 
-![Project Video 2](blender%20project/Project%20Video%202.webp)
-
-[Download Project Video 2 (MP4)](https://github.com/varshabachar/CIE-3-Submission/raw/main/blender%20project/Project%20Video%202.mp4)
+[Download Project Video (MP4)](https://github.com/varshabachar/CIE-3-Submission/raw/main/blender%20project/Project%20Video.mp4)
